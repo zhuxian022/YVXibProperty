@@ -1,6 +1,6 @@
 # YVXibProperty
 
-![quickLook](https://github.com/zhuxian022/YVBanner/blob/master/view.png?raw=true)
+![quickLook](https://github.com/zhuxian022/YVXibProperty/blob/master/view.png?raw=true)
 
 ## Installation
 #### 1.cocoapod 
